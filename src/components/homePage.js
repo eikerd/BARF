@@ -9,6 +9,8 @@ var Home = React.createClass({
 					<h1>Pluraslight Admin</h1>
 					<p>asdf</p>
 				</div>
-			);
+			)
 	}
-})
+});
+
+module.exports = Home;
